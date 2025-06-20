@@ -2,7 +2,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=++OOlá,+eu+sou+a+Gabriela+👋;Engenheira+de+Dados+&+Automação;Data+Science+|+Python+|+AWS+💻;Resolvo+pepinos+com+Python+🥒&center=true&size=30&pause=1000&delay=150">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=00B8F1&center=true&width=1000&lines=Olá%2C%20eu%20sou%20a%20Gabriela%20👋;Engenheira%20de%20Dados%20%26%20Automação" />
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00B8F1&center=true&width=1000&lines=Data%20Science%20|%20Python%20|%20AWS%20💻;Resolvo%20pepinos%20com%20Python%20🥒" />
   </a>
 </h1>
 
@@ -24,14 +28,18 @@
 <h2 align="center">🧰 Ferramentas & Tecnologias</h2>
 
 <p align="center">
-  <img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img title="Pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img title="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img title="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img title="Excel VBA" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img title="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
+  <img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img title="Pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img title="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img title="R" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+  <img title="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img title="Tableau" height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/>
+  <img title="Amazon S3" height="40" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg"/>
+  <img title="AWS QuickSight" height="40" src="https://cdn.worldvectorlogo.com/logos/amazon-quicksight.svg"/>
+  <img title="AWS Kinesis" height="40" src="https://cdn.worldvectorlogo.com/logos/aws-kinesis.svg"/>
+</p><h2 align="center">
 
 ---
 
@@ -58,10 +66,10 @@
   <a href="https://github.com/gabrielaizidoro/boletim-seguradoras" title="Boletim de Emissões">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaizidoro&repo=boletim-seguradoras&theme=tokyonight&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/gabrielaizidoro/validador-txt" title="Validador TXT Posição">
+  <!-- <a href="https://github.com/gabrielaizidoro/validador-txt" title="Validador TXT Posição">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaizidoro&repo=validador-txt&theme=tokyonight&border_color=61dafb&border_radius=10">
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -70,5 +78,5 @@
 <p align="center">
   👩‍💻 Trabalho diariamente com dados, automação e sistemas financeiros <br>
   🧠 Gosto de aprender, ensinar e transformar ideias em soluções reais <br>
-  🎾 Tenista (quando o joelho deixa) e amante de maratonas (de dados e Netflix)
+  🎾 Tenista (quando o joelho deixa) e amante de maratonas (de corrida, de dados e Streamings)
 </p>
