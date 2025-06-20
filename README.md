@@ -52,24 +52,23 @@
 
 ---
 
-<h2 align="center">📊 Atividade</h2>
+<h2 align="center">🐍 📊 Contribuições recentes</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielaizidoro&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+  <img src="https://github.com/gabrielaizidoro/gabrielaizidoro/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <div align="center">
-  <a href="https://github.com/gabrielaizidoro/boletim-seguradoras" title="Boletim de Emissões">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaizidoro&repo=boletim-seguradoras&theme=tokyonight&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/gabrielaizidoro/Layout_txt" title="Layout de Arquivo Posicional">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaizidoro&repo=Layout_txt&theme=tokyonight&border_color=61dafb&border_radius=10">
   </a>
-  <!-- <a href="https://github.com/gabrielaizidoro/validador-txt" title="Validador TXT Posição">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaizidoro&repo=validador-txt&theme=tokyonight&border_color=61dafb&border_radius=10">
-  </a>
-</div> -->
+</div>
+
 
 ---
 
