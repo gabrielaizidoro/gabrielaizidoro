@@ -47,7 +47,7 @@
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrielaizidoro&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaizidoro&layout=compact&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaizidoro&layout=compact&theme=tokyonight&include_forks=true" />
 </p>
 
 ---
