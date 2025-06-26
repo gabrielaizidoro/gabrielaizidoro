@@ -60,13 +60,47 @@
 
 
 ---
-
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <div align="center">
-  <a href="https://github.com/gabrielaizidoro/Layout_txt" title="Layout de Arquivo Posicional">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielaizidoro&repo=Layout_txt&theme=tokyonight&border_color=61dafb&border_radius=10">
-  </a>
+  <table style="border-spacing: 20px;">
+    <tr>
+      <td align="center" style="border: 1px solid #444; padding: 15px; border-radius: 10px; width: 250px;">
+        <a href="https://github.com/gabrielaizidoro/Layout_txt/tree/main/LLM_Previsao">
+          <h4>📈 <strong>Predição com Dash Interativo</strong></h4>
+        </a>
+        <a href="https://github.com/gabrielaizidoro/Layout_txt/tree/main/LLM_Previsao">
+          <sub>Gráficos com histórico real e previsão</sub>
+        </a>
+      </td>
+      <td align="center" style="border: 1px solid #444; padding: 15px; border-radius: 10px; width: 250px;">
+        <a href="https://github.com/gabrielaizidoro/Layout_txt/tree/main/Envio_Boletim_Automatico">
+          <h4>📊 <strong>Boletim Diário Automatizado</strong></h4>
+        </a>
+        <a href="https://github.com/gabrielaizidoro/Layout_txt/tree/main/Envio_Boletim_Automatico">
+          <sub>Status de envio de arquivos (D-1)</sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: 1px solid #444; padding: 15px; border-radius: 10px; width: 250px;">
+        <a href="https://github.com/gabrielaizidoro/Layout_txt/tree/main/Separador%20de%20Chaves%20EMI">
+          <h4>🔍 <strong>Filtro Inteligente de Arquivos</strong></h4>
+        </a>
+        <a href="https://github.com/gabrielaizidoro/Layout_txt/tree/main/Separador%20de%20Chaves%20EMI">
+          <sub>Extração por chave com base em planilha</sub>
+        </a>
+      </td>
+      <td align="center" style="border: 1px solid #444; padding: 15px; border-radius: 10px; width: 250px;">
+        <a href="https://github.com/gabrielaizidoro/Layout_txt/tree/main/Cria%20EMI">
+          <h4>🧾 <strong>Gerador de Arquivo Posicional</strong></h4>
+        </a>
+        <a href="https://github.com/gabrielaizidoro/Layout_txt/tree/main/Cria%20EMI">
+          <sub>Valida e exporta arquivos `.txt` com layout fixo</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
