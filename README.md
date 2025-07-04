@@ -28,18 +28,19 @@
 <h2 align="center">🧰 Ferramentas & Tecnologias</h2>
 
 <p align="center">
-  <img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img title="Pandas" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <img title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img title="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img title="R" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-  <img title="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img title="Tableau" height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/>
-  <img title="Amazon S3" height="40" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg"/>
-  <img title="AWS QuickSight" height="40" src="https://cdn.worldvectorlogo.com/logos/amazon-quicksight.svg"/>
-  <img title="AWS Kinesis" height="40" src="https://cdn.worldvectorlogo.com/logos/aws-kinesis.svg"/>
-</p><h2 align="center">
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+  <img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+  <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+  <img title="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+  <img title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+  <img title="Tableau" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+  <img title="Amazon S3" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+  <img title="AWS QuickSight" src="https://cdn.worldvectorlogo.com/logos/amazon-quicksight.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+  <img title="AWS Kinesis" src="https://cdn.worldvectorlogo.com/logos/aws-kinesis.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
+</p>
+
 
 ---
 
