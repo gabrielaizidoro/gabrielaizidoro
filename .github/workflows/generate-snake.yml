@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -11,19 +11,19 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write          # correção principal: libera o push na branch output
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - name: Gerar snake SVG
+        uses: Platane/snk/svg-only@v3   # svg-only é mais rápido; você não usa o .gif
         with:
           github_user_name: gabrielaizidoro
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to GitHub Pages
+      - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
