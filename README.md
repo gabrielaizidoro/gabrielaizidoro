@@ -41,17 +41,7 @@
   <img title="AWS Kinesis" src="https://cdn.worldvectorlogo.com/logos/aws-kinesis.svg" width="40" height="40" style="max-width:40px; height:auto;"/>
 </p>
 
-
----
-
-<h2 align="center">📈 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrielaizidoro&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaizidoro&layout=compact&theme=tokyonight&include_forks=true" />
-</p>
-
----
+--
 
 <h2 align="center">🐍 📊 Contribuições recentes</h2>
 
